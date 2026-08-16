@@ -1,0 +1,16 @@
+# Dépendances
+node_modules/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
+
+# Claude Code (reglages locaux)
+.claude/settings.local.json
+
+# Env
+.env
+.env.local
